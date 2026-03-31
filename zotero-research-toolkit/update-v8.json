@@ -5,7 +5,7 @@
                                                                          {
                                                                              "version":  "3.14.0",
                                                                              "update_link":  "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
-                                                                             "update_hash":  "sha256:402f24879aff03440093bb559c34b76c4f0439ef7638e0d3ee74b0d882015cae",
+                                                                             "update_hash":  "sha256:4b1571dfc71aaff15de95c2336bf9e28fafa7762309dfe494c98ebb01185d132",
                                                                              "applications":  {
                                                                                                   "zotero":  {
                                                                                                                  "strict_min_version":  "7.999",
