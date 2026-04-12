@@ -1,19 +1,19 @@
-﻿{
-    "addons":  {
-                   "research-toolkit-v8@niklas.se":  {
-                                                         "updates":  [
-                                                                         {
-                                                                             "version":  "4.7.0",
-                                                                             "update_link":  "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
-                                                                             "update_hash":  "sha256:a343c7dc6fa70fe28d832ace99f456f1d01897c49c28a1a82d725ea23645cf2a",
-                                                                             "applications":  {
-                                                                                                  "zotero":  {
-                                                                                                                 "strict_min_version":  "7.999",
-                                                                                                                 "strict_max_version":  "8.0.*"
-                                                                                                             }
-                                                                                              }
-                                                                         }
-                                                                     ]
-                                                     }
-               }
+{
+  "addons": {
+    "research-toolkit-v8@niklas.se": {
+      "updates": [
+        {
+          "version": "4.8.0",
+          "update_link": "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
+          "update_hash": "sha256:dd2e0fb85a5839de3ce257b7b3e62f155ebd31de256fd2c184985bea77e34d6d",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "7.999",
+              "strict_max_version": "8.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
 }
