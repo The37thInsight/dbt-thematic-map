@@ -3,9 +3,9 @@
     "research-toolkit-v8@niklas.se": {
       "updates": [
         {
-          "version": "4.8.0",
+          "version": "4.8.1",
           "update_link": "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
-          "update_hash": "sha256:9f51ff2f31bc689db8d7f3f113326f07f0b89355c411528fa2377fc25d828ec4",
+          "update_hash": "sha256:7e99772da9c220a5cbd4e96b3aef50d20f49e5ad37e5c9188edcc671805c753a",
           "applications": {
             "zotero": {
               "strict_min_version": "7.999",
