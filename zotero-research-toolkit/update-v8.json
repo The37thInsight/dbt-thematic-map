@@ -1,19 +1,19 @@
-{
-  "addons": {
-    "research-toolkit-v8@niklas.se": {
-      "updates": [
-        {
-          "version": "4.40.1",
-          "update_link": "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
-          "update_hash": "sha256:96292f571dfc3d5827fc33ae0c4db390ad6f967d6e1f99d6e425df7b27e78215",
-          "applications": {
-            "zotero": {
-              "strict_min_version": "7.999",
-              "strict_max_version": "10.*"
-            }
-          }
-        }
-      ]
-    }
-  }
+﻿{
+    "addons":  {
+                   "research-toolkit-v8@niklas.se":  {
+                                                         "updates":  [
+                                                                         {
+                                                                             "version":  "4.41.0",
+                                                                             "update_link":  "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
+                                                                             "update_hash":  "sha256:c8512508a22b83186c53a03fe294f2da3fd52527e0e8b0a5840d8442c5f56f27",
+                                                                             "applications":  {
+                                                                                                  "zotero":  {
+                                                                                                                 "strict_min_version":  "7.999",
+                                                                                                                 "strict_max_version":  "10.*"
+                                                                                                             }
+                                                                                              }
+                                                                         }
+                                                                     ]
+                                                     }
+               }
 }
