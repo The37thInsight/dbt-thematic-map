@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "4.47.1",
-          "update_link": "https://raw.githubusercontent.com/The37thInsight/dbt-thematic-map/main/zotero-research-toolkit/research-toolkit-latest.xpi",
+          "update_link": "https://raw.githubusercontent.com/The37thInsight/zotero-toolkit-updates/main/zotero-research-toolkit/research-toolkit-latest.xpi",
           "update_hash": "sha256:fcd4794f34e03f8bdc6198c1aea880425c9863427e627250d18bdf26610660ff",
           "applications": {
             "zotero": {
